@@ -1,0 +1,43 @@
+= Historia de Recitales
+Marcelo Masci
+v1.0, 2018-04-30
+:edicion: 1
+:toc:
+:toclevels: 1
+:toc-title: Contenido
+:imagesdir: ./entradas
+:fecha-corte: 16-04-2018
+
+////
+TODO
+Terminar de recortar e insertar imagenes
+Ver si se pueden convertir las imagenes en variables
+Insertar la setlist
+Agregar los recitales que faltan que perdi las entradas
+////
+
+Historia de los recitales a los que he asistido. Metal y otras yerbas.
+
+== Log
+
+[cols="1,1,1,1,3a",options="header"]
+|===
+|fecha
+|banda
+|amigos
+|lugar
+|entrada
+
+|2018-04-27
+|https://en.wikipedia.org/wiki/Blackoustic[Blackoustic]
+|Walter
+|https://www.setlist.fm/setlist/kotipelto-and-liimatainen/2018/the-roxy-live-bar-buenos-aires-argentina-43ec7f5f.html[The Roxy Live Bar]
+|image::Blackoustic_2018-04-27.jpg[]
+
+|2012-05-12
+|Unisonic
+|Walter
+|n/a
+|image::Unisonic_2012-05-12.jpg[]
+
+|===
