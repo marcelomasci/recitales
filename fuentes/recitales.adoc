@@ -22,5 +22,5 @@ Historia de los recitales a los que he asistido. Metal y otras yerbas.
 
 [%header,format=csv,cols="1,1,1,1,3a"]
 |===
-include::log.txt[]
+include::log.csv[]
 |===
